@@ -20,3 +20,24 @@
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
+## 📂 Featured Project
+
+### 📝 [Student Feedback Form](https://github.com/Ashna-Tech/student-feedback)
+
+A simple Angular 20 project using Reactive Forms, SCSS, and Bootstrap to collect student feedback.  
+✨ Features:
+- Responsive UI  
+- Form validations  
+- Data preview and submission logic
+
+---
+
+## 📈 GitHub Stats
+
+![Ashna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashna-Tech&show_icons=true&theme=radical)
+
+---
+
