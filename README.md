@@ -31,21 +31,6 @@ I enjoy creating structured UI, working with forms, and integrating APIs while c
 
 ---
 
-## 📂 Featured Project
-
-### 📝 Student Feedback Form (Angular)
-🔗 https://github.com/Ashna-Tech/student-feedback
-
-A responsive Angular application built using **Reactive Forms**, **SCSS**, and **Bootstrap** to collect and manage student feedback.
-
-**Key Features:**
-- Responsive and clean UI  
-- Form validations  
-- Data preview before submission  
-- Structured and reusable components  
-
----
-
 ## 📈 GitHub Stats
 
 ![Ashna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashna-Tech&show_icons=true&theme=radical)
