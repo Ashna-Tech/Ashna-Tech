@@ -1,12 +1,20 @@
 # 👋 Hi, I’m Ashna Sharma
 
-🎯 Frontend Developer with a passion for creating clean, responsive web applications using Angular 20, TypeScript, HTML, and SCSS.
+🚀 Frontend Developer passionate about building clean, responsive, and user-friendly web applications using **Angular**, **TypeScript**, **HTML**, and **SCSS**.
 
-- 🌱 Currently learning **RxJS**, **Signals**, and **NgRx**
-- 🛠️ Skilled in Angular, Reactive Forms, and REST API integration
-- 💼 Former Intern at [Smartkeeda](https://www.smartkeeda.com/)
-- 📫 Reach me at: [ashna11sharma@gmail.com](mailto:ashna11sharma@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashna-sharma-914594262/) | [GitHub](https://github.com/Ashna-Tech)
+I enjoy creating structured UI, working with forms, and integrating APIs while continuously improving my frontend skills.
+
+---
+
+## 👩‍💻 About Me
+
+- 💼 Former **Frontend Developer Intern** at [Smartkeeda](https://www.smartkeeda.com/)
+- 🌱 Currently learning **RxJS**, **NgRx**, and **Angular Signals**
+- 🛠️ Experienced in **Angular**, **Reactive Forms**, and **REST API integration**
+- 🎯 Focused on writing clean, maintainable, and scalable frontend code
+- 📫 Reach me at: **ashna11sharma@gmail.com**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ashna-sharma-914594262/) | [GitHub](https://github.com/Ashna-Tech)
 
 ---
 
@@ -21,17 +29,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+---
 
 ## 📂 Featured Project
 
-### 📝 [Student Feedback Form](https://github.com/Ashna-Tech/student-feedback)
+### 📝 Student Feedback Form (Angular)
+🔗 https://github.com/Ashna-Tech/student-feedback
 
-A simple Angular 20 project using Reactive Forms, SCSS, and Bootstrap to collect student feedback.  
-✨ Features:
-- Responsive UI  
+A responsive Angular application built using **Reactive Forms**, **SCSS**, and **Bootstrap** to collect and manage student feedback.
+
+**Key Features:**
+- Responsive and clean UI  
 - Form validations  
-- Data preview and submission logic
+- Data preview before submission  
+- Structured and reusable components  
 
 ---
 
@@ -41,3 +52,4 @@ A simple Angular 20 project using Reactive Forms, SCSS, and Bootstrap to collect
 
 ---
 
+✨ *Open to Frontend Developer / Angular Developer opportunities*
