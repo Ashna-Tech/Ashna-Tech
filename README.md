@@ -6,7 +6,7 @@
 - 🛠️ Skilled in Angular, Reactive Forms, and REST API integration
 - 💼 Former Intern at [Smartkeeda](https://www.smartkeeda.com/)
 - 📫 Reach me at: [ashna11sharma@gmail.com](mailto:ashna11sharma@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashna-tech/) | [GitHub](https://github.com/Ashna-Tech)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashna-sharma-914594262/) | [GitHub](https://github.com/Ashna-Tech)
 
 ---
 
